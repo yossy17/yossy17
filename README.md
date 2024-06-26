@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @yossy17
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div align='center'>
 
-<!---
-yossy17/yossy17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![5c728f05e3e5554f](https://avatars.githubusercontent.com/u/149352152?v=4)
+
+<hr>
+
+𝙉𝘼𝙈𝙀: 𝙔𝙤𝙨_𝙨𝙮
+<br>
+𝘼𝙂𝙀: 𝟏𝟒 
+
+<hr>
+
+</div>
