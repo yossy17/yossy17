@@ -1,5 +1,7 @@
 <div align='center'>
 
+[![typograssy](https://typograssy.deno.dev/api?text=Hi!%20I'm%20Yos_sy.)](https://github.com/kawarimidoll/typograssy)
+
 ![5c728f05e3e5554f](https://avatars.githubusercontent.com/u/149352152?v=4)
 
 <hr>
