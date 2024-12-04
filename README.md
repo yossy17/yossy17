@@ -5,7 +5,7 @@
 <br>
 𝘼𝙂𝙀: 𝟏𝟒
 <br>
-𝙎𝙀𝙓: 𝙈𝙖𝙡𝙚
+𝙂𝙚𝙣𝙙𝙚𝙧: 𝙈𝙖𝙡𝙚
 <hr>
 
 [![@Yos_sy17](https://img.shields.io/badge/@yos_sy17-000000.svg?logo=x&style=for-the-badge)](https://twitter.com/yos_sy17)
