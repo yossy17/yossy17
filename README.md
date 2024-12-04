@@ -16,13 +16,13 @@
 
 ### 🎓𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜
 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,django,figma,firebase,java,prisma,py,supabase,visualstudio&perline=9)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=c,cs,cpp,django,figma,firebase,java,prisma,py,supabase,visualstudio&perline=9)](https://skillicons.dev)
 
-### 😎𝙚𝙣𝙟𝙤𝙮𝙢𝙚𝙣𝙩
+### 😎𝙀𝙣𝙟𝙤𝙮𝙢𝙚𝙣𝙩
 
-[![My Skills](https://skillicons.dev/icons?i=blender,unity,unreal&perline=9)](https://skillicons.dev)
+[![Enjoyment](https://skillicons.dev/icons?i=blender,unity,unreal&perline=9)](https://skillicons.dev)
 
-## 🌐𝙎𝙉𝙎
+## 🌐𝙎𝙉𝙎 𝙇𝙞𝙣𝙠𝙨
 [![@Yos_sy17](https://img.shields.io/badge/@yos_sy17-000000.svg?logo=x&style=for-the-badge)](https://twitter.com/yos_sy17)
 [![Greasy Fork](https://img.shields.io/badge/greasyfork-670000.svg?logo=greasyfork&style=for-the-badge)](https://greasyfork.org/ja/users/1319247-yos-sy)
 
