@@ -6,9 +6,9 @@
 <br>
 𝘽𝙄𝙍𝙏𝙃𝘿𝘼𝙔: 𝟭/𝟭𝟳
 <br>
-𝘼𝙂𝙀: 𝟏𝟓
+𝘼𝙂𝙀: 𝟭𝟱
 <br>
-𝙂𝙀𝙉𝘿𝙀𝙍: 𝙈𝙖𝙡𝙚
+𝙃𝙚/𝙃𝙞𝙢
 
 <br>
 
@@ -19,7 +19,7 @@
 
 <br>
 
-## 💡𝙈𝙮 𝙎𝙠𝙞𝙡𝙡𝙨 ( 😭𝙇𝙤𝙬 𝙇𝙚𝙫𝙚𝙡 )
+## 💡𝙈𝙮 𝙎𝙠𝙞𝙡𝙡𝙨 ( ✍🏻𝙎𝙩𝙞𝙡𝙡 𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜 )
 
 ![My Skills](https://skillicons.dev/icons?i=bun,cloudflare,codepen,css,express,git,github,html,js,jquery,md,nextjs,nodejs,npm,pnpm,pug,react,sass,tailwind,threejs,ts,vercel,visualstudio,vscode,webpack&perline=9)
 
